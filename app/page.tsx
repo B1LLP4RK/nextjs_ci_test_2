@@ -1,4 +1,7 @@
 import Image from "next/image";
+//new comment and useless newlines
+
+
 
 export default function Home() {
   return (
